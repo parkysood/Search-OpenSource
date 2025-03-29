@@ -1,3 +1,5 @@
+# Transform and clean extracted repos from GitHub API
+
 def clean_repos(repos):
     cleaned = []    # Store cleaned repository data
     
